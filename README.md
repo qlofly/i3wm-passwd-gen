@@ -1,4 +1,4 @@
-# i3wm-passwd-gen
+# i3wm password generator
 Python script to create a complex password and copy it to the clipboard
 
 #Installing a dependency:
